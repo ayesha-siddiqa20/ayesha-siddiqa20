@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayesha Siddiqa</h1>
 <h3 align="center">A passionate programmer from Canada</h3>
 
-- 🌱 I’m currently learning **Frontend Development with php, CSS, HTML5**
-
-- 💬 Ask me about **python, jira: xray**
+- 🌱 I’m currently learning **Frontend Development with JavaScript, PHP, CSS, HTML5**
 
 - 📫 How to reach me **ayeshaahmeds222@gmail.com**
 
 - ⚡ Fun fact **I enjoy archery!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-siddiqa-93b1501b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-siddiqa-93b1501b6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ayesha ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayesha ahmed" height="30" width="40" /></a>
