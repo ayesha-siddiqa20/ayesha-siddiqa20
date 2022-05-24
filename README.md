@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I enjoy archery!**
 
 <p align="left">
-<a href="https://linkedin.com/in/ayesha-siddiqa-93b1501b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-siddiqa-93b1501b6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayesha-siddiqa-93b1501b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-siddiqa-93b1501b6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/AyeshaAhmed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayesha ahmed" height="30" width="40" /></a>
 </p>
 
