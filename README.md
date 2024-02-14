@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Siddiqa</h1>
-<h3 align="center">A passionate programmer from Canada</h3>
+<h3 align="center">A passionate programmer from Canada</h3> 
 
-- 🌱 I’m currently learning **Frontend Development with JavaScript, PHP, CSS, HTML5**
+- 🌱 I’m currently learning **Cloud technologies (GCP)!**
 
 - 📫 How to reach me **ayeshaahmeds222@gmail.com**
 
